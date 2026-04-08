@@ -51,8 +51,8 @@ Whether you're preparing for **DSA interviews**, optimizing solutions, or learni
 ## 📸 Screenshots
 
 ```md
-![App Screenshot](./Screenshot%202026-04-08%20232255.png)
-![App Screenshot](./Screenshot%202026-04-08%20232310.png)
+![Homepage](./homepage.png)
+![Result](./screenshot.png)
 ```
 
 ---
