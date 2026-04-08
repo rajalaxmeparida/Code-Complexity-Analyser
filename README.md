@@ -50,8 +50,9 @@ Whether you're preparing for **DSA interviews**, optimizing solutions, or learni
 
 ## 📸 Screenshots
 
-```md
+### Homepage
 ![Homepage](./homepage.png)
+### Result
 ![Result](./screenshot.png)
 ```
 
