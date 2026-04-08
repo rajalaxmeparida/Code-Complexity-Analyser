@@ -1,16 +1,118 @@
-# React + Vite
+# 🚀 Code Complexity Analyzer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> ⚡ Analyze the **time and space complexity** of code snippets instantly — built to simplify understanding of algorithm efficiency.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live Demo
 
-## React Compiler
+🚀 **Try it here:**
+👉 https://codecomplexityanalyzer.onrender.com/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📌 Overview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The **Code Complexity Analyzer** is a smart web-based tool that helps developers evaluate the efficiency of their code by identifying its **time and space complexity**.
+
+Whether you're preparing for **DSA interviews**, optimizing solutions, or learning algorithms — this tool provides quick insights into how your code performs.
+
+---
+
+## ✨ Key Features
+
+* 🔍 **Automatic Complexity Detection**
+  Identifies common patterns like loops, nested loops, and recursion.
+
+* ⚡ **Instant Analysis**
+  Get results in real-time with minimal delay.
+
+* 🧠 **Beginner Friendly**
+  Helps students understand how code translates to Big-O notation.
+
+* 💻 **Clean UI/UX**
+  Simple and intuitive interface for smooth interaction.
+
+* 📊 **Supports Multiple Code Inputs**
+  Analyze different snippets quickly and efficiently.
+
+---
+
+## 🧠 How It Works
+
+1. ✍️ User inputs a code snippet
+2. ⚙️ The system parses the structure of the code
+3. 🔄 Detects patterns (loops, nesting, recursion, etc.)
+4. 📈 Maps patterns to **Big-O complexity**
+5. ✅ Displays the result instantly
+
+---
+
+## 📸 Screenshots
+
+```md
+!(Screenshot%202026-04-08%20232255.png)
+!(Screenshot%202026-04-08%20232310.png)
+```
+
+---
+
+## ⚙️ Installation & Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/rajalaxmeparida/Code-Complexity-Analyser.git
+
+# Navigate to project folder
+cd Code-Complexity-Analyser
+
+# Open in browser
+open index.html
+```
+
+---
+
+## 🚀 Usage
+
+1. Open the application
+2. Paste your code snippet
+3. Click **Check Complexity**
+4. View the detected complexity
+
+---
+
+## 📂 Project Structure
+
+```
+Code-Complexity-Analyser/
+│── index.html
+│── style.css
+│── script.js
+│── /screenshots
+│── README.md
+```
+
+---
+
+## 🌟 Future Enhancements
+
+* 🔮 Support for multiple programming languages
+* 🤖 AI-based complexity prediction
+* 📊 Visualization of execution steps
+* 🧪 Unit testing integration
+* 🌐 Deploy as a scalable web app
+
+---
+
+## 👨‍💻 Author
+
+**Rajalaxmi Parida**
+
+* 💼 GitHub: https://github.com/rajalaxmeparida
+* 🚀 Passionate about Full Stack Development & AI
+
+---
+
+## 📜 License
+
+This project is open-source and available under the **MIT License**.
